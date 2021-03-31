@@ -18,27 +18,27 @@ export default class HeaderTop extends Component {
             </ul> 
             <ul className="social-icons nav">
                 <li>
-                    <Link to="http://facebook.com">
+                    <Link to="https://www.facebook.com/">
                         <i className="fa fa-facebook"></i>
                     </Link>
                 </li>
                 <li>
-                    <a href="http://google.com">
+                    <a href="https://www.google.com">
                         <i className="fa fa-google-plus"></i>
                     </a>
                 </li>
                 <li>
-                    <Link to="http://twitter.com" >
+                    <Link to="https://www.twitter.com" >
                         <i className="fa fa-twitter"></i>
                     </Link>
                 </li>
                 <li>
-                    <Link to="http://vk.com">
+                    <Link to="https://www.vk.com">
                         <i className="fa fa-vk"></i>
                     </Link>
                 </li>
                 <li>
-                    <Link to="http://instagram.com" >
+                    <Link to="https://www.instagram.com" >
                         <i className="fa fa-instagram"></i>
                     </Link>
                 </li>
